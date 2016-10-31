@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+
+<Pedidos>
+ 	<Pedido>
+ 		<Cliente>Ana</Cliente>
+ 		<PC>pc500</PC>
+ 	</Pedido>
+ 	<Pedido>
+ 		<Cliente>Juan</Cliente>
+ 		<PC>pc600</PC>
+ 	</Pedido>
+</Pedidos> 

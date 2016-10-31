@@ -1,0 +1,4 @@
+Ano:2001, Max-temp:200 
+Ano:2003, Max-temp:230 
+Ano:2004, Max-temp:220 
+Ano:2002, Max-temp:400 
