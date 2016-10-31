@@ -1,0 +1,10 @@
+def main():
+    texto = ...
+    lineas = texto.split("\n")  #Lista de lineas
+    lt = lineas.map(mapper)     #Aplico la funcion mapper a una lista de lineas y devuelvo una lista de tuplas
+    return lt.reducer()
+
+def mapper(texto):
+'''
+Recibe una linea y devuelve una lista de tuplas
+'''

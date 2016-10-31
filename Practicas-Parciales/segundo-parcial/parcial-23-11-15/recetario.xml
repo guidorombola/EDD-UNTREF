@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<recetario>
+    <descripcion>Algunas recetas en XML.</descripcion>
+    <receta>
+        <nombre>Besugo al horno</nombre>
+        <categoria>Pescado</categoria>
+        <informacion_general>
+            <comensales>4</comensales>
+            <tiempo unidad="minutos">45</tiempo>
+            <dificultad>Moderada</dificultad>
+        </informacion_general>
+        <ingredientes>
+            <ingrediente cantidad="1">Besugo</ingrediente>
+            <ingrediente cantidad="1">Limón</ingrediente>
+            <ingrediente cantidad="1" unidad="cuchara sopera">Pan rallado</ingrediente>
+            <ingrediente cantidad="2" unidad="dientes">Ajo</ingrediente>
+            <ingrediente cantidad="1/2" unidad="dl">Vino blanco</ingrediente>
+            <ingrediente>Aceite</ingrediente>
+            <ingrediente>Perejil</ingrediente>
+            <ingrediente>Sal</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso numero="1">Lavamos las patatas bajo el grifo a conciencia.</paso>
+            <paso numero="2">Introducimos en una cazuela, cubrimos con agua, añadimos las hojas de laurel y sazonamos al gusto.
+            Ponemos a fuego alto y, en cuanto empiece a hervir, bajamos el fuego y dejamos cocer a fuego lento
+            durante 15 minutos.
+            </paso>
+            <paso numero="3">Sacamos y dejamos templar.</paso>
+            <paso numero="4">Quitamos la piel y cortamos en rodajas gruesas.</paso>
+            <paso numero="5">Colocamos las rodajas de patatas sobre una fuente de horno.
+            </paso>
+            <paso numero="6">Lavamos y sazonamos el besugo.</paso>
+            <paso numero="7">Le realizamos unos cortes en el lomo, con un cuchillo afilado, e introducimos en cada corte media
+            rodaja de limón.
+            </paso>
+            <paso numero="8">Colocamos el besugo encima de las patatas.</paso>
+            <paso numero="9">En una sarten con cuatro cucharadas de aceite de oliva doramos los ajos, pelados y cortados en
+            láminas, añadimos el caldo de pescado y el vino, removemos y vertemos sobre el besugo.
+            </paso>
+            <paso numero="10">Introducimos la fuente en el horno (en la base) que tendremos precalentado a 170º, durante 20-25 minutos, dependiendo del tamaño del besugo.
+            </paso>
+            <paso numero="11">Comprobamos que el besugo está hecho y sacamos del horno.
+            </paso>
+        </preparacion>
+    </receta>
+</recetario>
